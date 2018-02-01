@@ -1,0 +1,16 @@
+.white-on-black {
+    height: 60px;
+    color: #fff;
+    background-color: #44a;
+}
+
+.category {
+    font-weight: bold;
+    font-size: 20px;
+	color: #A52A2A;
+}
+
+.info {
+    font-weight: bold;
+    font-size: 17px;
+}
